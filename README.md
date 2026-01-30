@@ -17,42 +17,33 @@ I’m a tech explorer building **AI-driven solutions, blockchain applications, a
 ## 🛠️ Skills & Tools
 
 **Programming Languages & Realtime Dev**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=40) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=40)  
 
 **Backend & Frameworks**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white) 
-![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=ethereum&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=40) 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoWidth=40) 
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=40) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=40)  
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=40) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&logoWidth=40)  
 
 **Blockchain & Web3**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/Web3.js-0F0F0F?style=flat&logo=web3dotjs&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&logoWidth=40) 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=40)  
+![Web3.js](https://img.shields.io/badge/Web3.js-0F0F0F?style=for-the-badge&logo=web3dotjs&logoColor=white&logoWidth=40)  
 
 ---
-
-## 🌐 Projects & Portfolio
-| Project | Description | Link |
-|---------|-------------|------|
-| ALMA Backend | Smart food & blockchain logging system | [Repo](#) |
-| Ethereum DApps | Smart contracts & Web3 integration | [Repo](#)   |
-
----
-
 
 ## 📫 Contact
 📧 Email: iribagizafanny3@gmail.com   
-💬 LinkedIn:www.linkedin.com/in/iribagiza-fanny-20490b397  
+💬 LinkedIn: [www.linkedin.com/in/iribagiza-fanny-20490b397](https://www.linkedin.com/in/iribagiza-fanny-20490b397)  
 
 ---
 
